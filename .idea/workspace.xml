@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0e4d5b3-fe49-4a17-8b32-b4844b0b15ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z2eWS3WxmYHkhzG8ie8UWWYbAB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bombz\OneDrive\Pycharm\overnight_hold" />
+      <recent name="C:\Users\Desk_samsung\OneDrive\Pycharm\overnight_hold" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.overnight">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Desk_samsung\Anaconda3\envs\py37_32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="overnight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="overnight_hold" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Desk_samsung\Anaconda3\envs\py37_32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/overnight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="overnight_hold" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Desk_samsung\Anaconda3\envs\py37_32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.overnight" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0e4d5b3-fe49-4a17-8b32-b4844b0b15ff" name="Default Changelist" comment="" />
+      <created>1584041647670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584041647670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-821" y="695" key="FileChooserDialogImpl" timestamp="1584475265323">
+      <screen x="-1200" y="0" width="1200" height="1880" />
+    </state>
+    <state x="341" y="695" key="FileChooserDialogImpl/0.0.1080.1880@0.0.1080.1880" timestamp="1584237760364" />
+    <state x="-821" y="695" key="FileChooserDialogImpl/0.0.1422.760/-1200.0.1200.1880@-1200.0.1200.1880" timestamp="1584475265323" />
+    <state width="1059" height="559" key="GridCell.Tab.0.bottom" timestamp="1584561409967">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="559" key="GridCell.Tab.0.bottom/0.0.1080.1880@0.0.1080.1880" timestamp="1584561409967" />
+    <state width="1179" height="559" key="GridCell.Tab.0.bottom/0.0.1422.760/-1200.0.1200.1880@-1200.0.1200.1880" timestamp="1584488750737" />
+    <state width="1059" height="559" key="GridCell.Tab.0.center" timestamp="1584561409967">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="559" key="GridCell.Tab.0.center/0.0.1080.1880@0.0.1080.1880" timestamp="1584561409967" />
+    <state width="1179" height="559" key="GridCell.Tab.0.center/0.0.1422.760/-1200.0.1200.1880@-1200.0.1200.1880" timestamp="1584488750736" />
+    <state width="1059" height="559" key="GridCell.Tab.0.left" timestamp="1584561409966">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="559" key="GridCell.Tab.0.left/0.0.1080.1880@0.0.1080.1880" timestamp="1584561409966" />
+    <state width="1179" height="559" key="GridCell.Tab.0.left/0.0.1422.760/-1200.0.1200.1880@-1200.0.1200.1880" timestamp="1584488750736" />
+    <state width="1059" height="559" key="GridCell.Tab.0.right" timestamp="1584561409967">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1059" height="559" key="GridCell.Tab.0.right/0.0.1080.1880@0.0.1080.1880" timestamp="1584561409967" />
+    <state width="1179" height="559" key="GridCell.Tab.0.right/0.0.1422.760/-1200.0.1200.1880@-1200.0.1200.1880" timestamp="1584488750736" />
+    <state x="82" y="582" key="SettingsEditor" timestamp="1584237769456">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="82" y="582" key="SettingsEditor/0.0.1080.1880@0.0.1080.1880" timestamp="1584237769456" />
+    <state x="-1099" y="582" key="SettingsEditor/0.0.1422.760/-1200.0.1200.1880@-1200.0.1200.1880" timestamp="1584042375870" />
+  </component>
+</project>
